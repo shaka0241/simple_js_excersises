@@ -1,6 +1,6 @@
 # Ejercicios simples de Javascript
 
-PROBLEMAS DE JAVASCRIPT
+[PROBLEMAS DE JAVASCRIPT](/D:/proyectos/simple_exercises_js/readme.md)
 
 ## 1.Has hecho una compra y sabes el precio del producto y su iva. Haz un script que te calcule el precio total que vas a pagar por tu compra. Te recuerdo que para calcular el total debes sumar al precio el resultado de multiplicasr precio por el iva y dividir por 100.
 
@@ -15,3 +15,5 @@ PROBLEMAS DE JAVASCRIPT
 ## 5.Una tortilla de patatas lleva 200 gramos de patatas por persona. Por cada kilo de patatas se necesitan 5 huevos y 300 gramos de cebolla. Escribe un script que dado el número de comensales calcule las cantidades de ingredientes necesarias.
 
 ## 6.Crea una función que tenga dos argumentos: num1, num2, y que devuelva como resultado la suma de ambos números. Se supone que se usarán solo números válidos, no letras o símbolos. 
+
+Problemas sacados de [https://www.aulascript.com/index.htm]Aulascript
